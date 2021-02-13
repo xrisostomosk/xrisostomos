@@ -2,6 +2,8 @@
 // where your node app starts
 
 // init project
+require('dotenv').config(); 
+
 const express = require("express");
 const fs = require("fs");
 const discordBotkit = require("botkit-discord");

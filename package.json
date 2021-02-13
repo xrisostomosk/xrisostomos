@@ -2,7 +2,7 @@
   "name": "discord-starter",
   "version": "1.0.0",
   "engines": {
-    "node": "12.19.0"
+    "node": "12.19.0",
     "npm": "6.14.8"
   },
   "description": "",
